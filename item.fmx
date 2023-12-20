@@ -1,0 +1,60 @@
+object Frame2: TFrame2
+  Align = Client
+  Size.Width = 320.000000000000000000
+  Size.Height = 46.000000000000000000
+  Size.PlatformDefault = False
+  object Panel1: TPanel
+    Align = Client
+    Size.Width = 320.000000000000000000
+    Size.Height = 46.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'pushpanel'
+    TabOrder = 0
+    object Button1: TButton
+      Align = MostRight
+      Position.X = 272.000000000000000000
+      Size.Width = 48.000000000000000000
+      Size.Height = 46.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'arrowdowntoolbutton'
+      TabOrder = 1
+      Text = 'Button1'
+      OnClick = Button1Click
+    end
+    object Button2: TButton
+      Tag = 3
+      Align = MostLeft
+      Size.Width = 41.000000000000000000
+      Size.Height = 46.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'cleareditbutton'
+      TabOrder = 3
+      Text = 'Button2'
+      OnClick = Button2Click
+    end
+    object text: TLabel
+      Align = MostLeft
+      StyledSettings = [Family, Size, FontColor]
+      Position.X = 41.000000000000000000
+      Size.Width = 127.000000000000000000
+      Size.Height = 46.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+      TextSettings.WordWrap = False
+      Text = 'text'
+      TabOrder = 0
+    end
+    object detil: TLabel
+      Align = MostRight
+      Opacity = 0.600000023841857900
+      Position.X = 176.000000000000000000
+      Size.Width = 96.000000000000000000
+      Size.Height = 46.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.HorzAlign = Trailing
+      TextSettings.WordWrap = False
+      Text = 'detil'
+      TabOrder = 2
+    end
+  end
+end

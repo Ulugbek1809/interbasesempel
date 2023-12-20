@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.334,=D:\Software\Dasturlash\Project\qarz\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.700,=D:\Software\Dasturlash\Project\qarz\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.257,D:\Software\Dasturlash\Project\qarz\data_M.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,D:\Software\Dasturlash\Project\qarz\data_M.dfm=D:\Software\Dasturlash\Project\qarz\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.481,=D:\Software\Dasturlash\Project\qarz\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,D:\Software\Dasturlash\Project\qarz\Unit2.pas=D:\Software\Dasturlash\Project\qarz\item.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.255,D:\Software\Dasturlash\Project\qarz\Unit1.fmx=D:\Software\Dasturlash\Project\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,D:\Software\Dasturlash\Project\qarz\Unit2.fmx=D:\Software\Dasturlash\Project\qarz\item.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,D:\Software\Dasturlash\Project\qarz\qarz.dproj=D:\Software\Dasturlash\Project\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,D:\Software\Dasturlash\Project\qarz\data_M.pas=D:\Software\Dasturlash\Project\qarz\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,=D:\Software\Dasturlash\Project\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.255,D:\Software\Dasturlash\Project\qarz\Unit1.pas=D:\Software\Dasturlash\Project\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
